@@ -1,0 +1,12 @@
+body {
+	background:#333 url('../images/shattered1.png');
+}
+
+.content {
+	margin-top:3em;
+}
+
+.batman h1 {
+	color:#333;
+	font-family: 'Megrim', cursive;
+}
